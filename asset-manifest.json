@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myworldbox/WhatsApp/static/css/main.3fd1ca20.chunk.css",
+    "main.js": "/myworldbox/WhatsApp/static/js/main.546b89f5.chunk.js",
+    "main.js.map": "/myworldbox/WhatsApp/static/js/main.546b89f5.chunk.js.map",
+    "runtime-main.js": "/myworldbox/WhatsApp/static/js/runtime-main.94146575.js",
+    "runtime-main.js.map": "/myworldbox/WhatsApp/static/js/runtime-main.94146575.js.map",
+    "static/js/2.55d8da6f.chunk.js": "/myworldbox/WhatsApp/static/js/2.55d8da6f.chunk.js",
+    "static/js/2.55d8da6f.chunk.js.map": "/myworldbox/WhatsApp/static/js/2.55d8da6f.chunk.js.map",
+    "static/js/3.975f5283.chunk.js": "/myworldbox/WhatsApp/static/js/3.975f5283.chunk.js",
+    "static/js/3.975f5283.chunk.js.map": "/myworldbox/WhatsApp/static/js/3.975f5283.chunk.js.map",
+    "index.html": "/myworldbox/WhatsApp/index.html",
+    "static/css/main.3fd1ca20.chunk.css.map": "/myworldbox/WhatsApp/static/css/main.3fd1ca20.chunk.css.map",
+    "static/js/2.55d8da6f.chunk.js.LICENSE.txt": "/myworldbox/WhatsApp/static/js/2.55d8da6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94146575.js",
+    "static/js/2.55d8da6f.chunk.js",
+    "static/css/main.3fd1ca20.chunk.css",
+    "static/js/main.546b89f5.chunk.js"
+  ]
+}
